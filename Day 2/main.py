@@ -61,4 +61,4 @@ def part2():
                 return [result, noun, verb]
 
 resultPart2 = part2()
-print("final answer: " + str(resultPart2[1] * 100 + resultPart2[2]))
+print("answer part 2: " + str(resultPart2[1] * 100 + resultPart2[2]))
